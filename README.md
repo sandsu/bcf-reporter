@@ -8,7 +8,7 @@ Export BCF to PDF.
 
 ## Setup
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run
